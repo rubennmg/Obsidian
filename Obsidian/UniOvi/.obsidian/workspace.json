@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "b9d98155ae1dfbba",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ca0ca64430f6c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1267f1a3c862e87b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingeniería de Redes/Presentación.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5cedc7f7597d631c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4efb116e447ca624",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b161d976f6796f66",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3dab79dda2cdba01",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d61a4589df378ba",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0cfdd0bd139a1b37",
+    "type": "split",
+    "children": [
+      {
+        "id": "5aa0d9c429c8b765",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a480883bc86db50a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ingeniería de Redes/Presentación.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "671c418ffda65376",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ingeniería de Redes/Presentación.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5499eb6f0d79e812",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ca9b4f1e0fe07433",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ingeniería de Redes/Presentación.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "1267f1a3c862e87b",
+  "lastOpenFiles": [
+    "Ingeniería de Redes/Tema 1. Arquitectura de la red Internet.md",
+    "Sistemas Inteligentes/Tema 2. Aprendizaje automático.md",
+    "Infraestructura Informática/Tema 2. Centros de Procesos de Datos (CPD).md",
+    "Sistemas Distribuidos/Tema 2. Intercomunicación de procesos.md",
+    "Excalidraw/SD Cliente-Servidor (TCP).md",
+    "Sistemas Distribuidos/Tema 1. Introducción.md",
+    "Sistemas Inteligentes/Presentación.md",
+    "Sistemas de Información/Presentación.md",
+    "Sistemas de Información/Tema 1. Introducción a Agile y Scrum.md",
+    "Sistemas de Información/Uso de git.md"
+  ]
+}
